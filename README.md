@@ -5,7 +5,7 @@ This is a simple Streamlit app built by a student for an assignment. This predic
 ## 📊 Features
 - Input values: Temperature, Humidity, Wind Speed, Rainfall, ISI, BUI, DC, and Region
 - Predicts the Fire Weather Index
-- You can use the following values: 
+- You can use the following values: &nbsp;&nbsp;&nbsp;&nbsp;
       &nbsp;&nbsp;&nbsp;&nbsp;• **Initial Spread Index (ISI):** 3.10  
       &nbsp;&nbsp;&nbsp;&nbsp;• **Build Up Index (BUI):** 9.30  
       &nbsp;&nbsp;&nbsp;&nbsp;• **Drought Code (DC):** 26.30  
