@@ -30,7 +30,7 @@ Click here:
 - `app.py`: Main Streamlit application
 - `final_linear_model.pkl`: Trained Linear Regression model
 - `requirements.txt`: Required Python packages
-- (Optional) CSV file if needed
+
 
 ## 🙋‍♂️ Author
 Hazel Santos (Student Assignment)
