@@ -24,7 +24,7 @@ This is a simple Streamlit app built by a student for an assignment. This predic
 
 ## 🚀 Try the App
 Click here:  
-👉 [https://algerianforestfires-hvmzemc5t3eqkzrnakw3h6.streamlit.app/)
+👉 [https://algerianforestfiresbyhazel.streamlit.app/)
 
 ## 📁 Project Files
 - `app.py`: Main Streamlit application
