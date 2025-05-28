@@ -6,12 +6,12 @@ This is a simple Streamlit app built by a student for an assignment. This predic
 - Input values: Temperature, Humidity, Wind Speed, Rainfall, ISI, BUI, DC, and Region
 - Predicts the Fire Weather Index
 - You can use the following values: 
-    -**Initial Spread Index:** 3.10
-    -**Build Up Index:** 9.30
-    -**Drought Code:** 26.30
-    -**Temperature:** 35
-    -**Relative Humidity (%):** 54
-    -**Rain:** 0.10
+      &nbsp;&nbsp;&nbsp;&nbsp;• **Initial Spread Index (ISI):** 3.10  
+      &nbsp;&nbsp;&nbsp;&nbsp;• **Build Up Index (BUI):** 9.30  
+      &nbsp;&nbsp;&nbsp;&nbsp;• **Drought Code (DC):** 26.30  
+      &nbsp;&nbsp;&nbsp;&nbsp;• **Temperature (°C):** 35  
+      &nbsp;&nbsp;&nbsp;&nbsp;• **Relative Humidity (%):** 54  
+      &nbsp;&nbsp;&nbsp;&nbsp;• **Rain (mm):** 0.10
     
 - Uses a trained `final_linear_model.pkl` file
 
